@@ -1,0 +1,2 @@
+{'Viime pelin voittaja': 'Pelaaja A'}
+{'Viime pelin voittaja': 'Pelaaja B'}
